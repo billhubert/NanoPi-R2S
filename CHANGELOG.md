@@ -1,3 +1,6 @@
+##20201028 - bill
+将 .github/workflows 下 .yml 文件中的 runs-on: self-hosted 改成 runs-on: ubuntu-latest
+
 ## 20200909
 * 更新 SmartDNS
 
